@@ -79,6 +79,28 @@
             "eu-central-1" => %{}
           }
         },
+        "bedrock" => %{
+          "endpoints" => %{
+            "eu-west-1" => %{
+              "hostname" => "bedrock-runtime.eu-west-1.amazonaws.com"
+            },
+            "eu-central-1" => %{
+              "hostname" => "bedrock-runtime.eu-central-1.amazonaws.com"
+            },
+            "us-west-2" => %{
+              "hostname" => "bedrock-runtime.us-west-2.amazonaws.com"
+            },
+            "ap-southeast-1" => %{
+              "hostname" => "bedrock-runtime.ap-southeast-1.amazonaws.com"
+            },
+            "ap-northeast-1" => %{
+              "hostname" => "bedrock-runtime.ap-northeast-1.amazonaws.com"
+            },
+            "us-east-1" => %{
+              "hostname" => "bedrock-runtime.us-west-2.amazonaws.com"
+            }
+          }
+        },
         "connect" => %{
           "endpoints" => %{
             "ap-northeast-1" => %{},
