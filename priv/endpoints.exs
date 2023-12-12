@@ -97,7 +97,7 @@
               "hostname" => "bedrock-runtime.ap-northeast-1.amazonaws.com"
             },
             "us-east-1" => %{
-              "hostname" => "bedrock-runtime.us-west-2.amazonaws.com"
+              "hostname" => "bedrock-runtime.us-east-1.amazonaws.com"
             }
           }
         },
